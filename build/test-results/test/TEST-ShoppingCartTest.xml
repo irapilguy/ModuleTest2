@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ShoppingCartTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2021-01-10T18:27:33" hostname="DESKTOP-S0MUF62" time="0.081">
+  <properties/>
+  <testcase name="DiscountTest10()" classname="ShoppingCartTest" time="0.032"/>
+  <testcase name="DiscountTest11()" classname="ShoppingCartTest" time="0.001"/>
+  <testcase name="DiscountTest12()" classname="ShoppingCartTest" time="0.0"/>
+  <testcase name="AppendFormattedTest1()" classname="ShoppingCartTest" time="0.006"/>
+  <testcase name="AppendFormattedTest2()" classname="ShoppingCartTest" time="0.001"/>
+  <testcase name="AppendFormattedTest3()" classname="ShoppingCartTest" time="0.001"/>
+  <testcase name="AppendFormattedTest4()" classname="ShoppingCartTest" time="0.001"/>
+  <testcase name="AppendFormattedTest5()" classname="ShoppingCartTest" time="0.0"/>
+  <testcase name="DiscountTest1()" classname="ShoppingCartTest" time="0.001"/>
+  <testcase name="DiscountTest2()" classname="ShoppingCartTest" time="0.002"/>
+  <testcase name="DiscountTest3()" classname="ShoppingCartTest" time="0.001"/>
+  <testcase name="DiscountTest4()" classname="ShoppingCartTest" time="0.003"/>
+  <testcase name="DiscountTest5()" classname="ShoppingCartTest" time="0.001"/>
+  <testcase name="DiscountTest6()" classname="ShoppingCartTest" time="0.0"/>
+  <testcase name="DiscountTest7()" classname="ShoppingCartTest" time="0.002"/>
+  <testcase name="DiscountTest8()" classname="ShoppingCartTest" time="0.003"/>
+  <testcase name="DiscountTest9()" classname="ShoppingCartTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
